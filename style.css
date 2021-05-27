@@ -1,0 +1,41 @@
+
+        body{
+            margin: 0px;
+            background-color: #eaf6f6;  
+        }
+        h1{
+            margin: 0px;
+            color: rgb(27, 104, 78);
+        }
+        /*
+        div{
+            border
+            
+            background-color: #a9f1df;
+            border-radius: 100px;
+            width: 80%;
+        }*/
+p{
+    font-size: 20px;
+    height: 100px;
+    width: 80%;
+}
+    hr{
+        background-color: black;
+        border-style: none;
+        height: 2px;
+        width: 60%;
+    }
+
+    img{
+        border: solid  5px;
+        height: 250px;
+        border-radius: 100px;
+        border-color: darkgreen;
+    }
+
+
+  
+ .Pro{
+    text-decoration: underline;
+ }
